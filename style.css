@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Fraunces";
-    src: url(/workit-landing-page/starter-code/assets/fonts/fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf)
+    src: url(assets/fonts/fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf)
         format("truetype-variations");
     font-weight: 600;
     font-stretch: 50% 200%;
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: "Manrope";
-    src: url(/workit-landing-page/starter-code/assets/fonts/manrope/Manrope-VariableFont_wght.ttf)
+    src: url(assets/fonts/manrope/Manrope-VariableFont_wght.ttf)
         format("truetype-variations");
         font-weight: 400;
         font-stretch: 50% 200%;
@@ -183,8 +183,8 @@ p {
 
 @media screen and (min-width: 768px) {
     .header {
-        background: url(/workit-landing-page/starter-code/assets/images/bg-pattern-1.svg) no-repeat -230px 50%,
-          url(/workit-landing-page/starter-code/assets/images/bg-pattern-2.svg) no-repeat -85px top 75%;
+        background: url(assets/images/bg-pattern-1.svg) no-repeat -230px 50%,
+          url(assets/images/bg-pattern-2.svg) no-repeat -85px top 75%;
     }
 
     .header-center {
@@ -208,8 +208,8 @@ p {
 
 @media screen and (min-width: 980px) {
     .header {
-        background: url(/workit-landing-page/starter-code/assets/images/bg-pattern-1.svg) no-repeat -150px 38%,
-          url(/workit-landing-page/starter-code/assets/images/bg-pattern-2.svg) no-repeat right -50px top 60%;
+        background: url(assets/images/bg-pattern-1.svg) no-repeat -150px 38%,
+          url(assets/images/bg-pattern-2.svg) no-repeat right -50px top 60%;
     }
 
     .header-center {
